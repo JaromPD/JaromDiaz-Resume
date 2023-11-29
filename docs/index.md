@@ -1,86 +1,102 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Jarom Diaz's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jarom Diaz
+Software Engineering student at Brigham Young University - Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="datascience@byui.edu">JaromPD@byui.edu</a>
+| <a href="https://www.linkedin.com/in/jarom-diaz/">LinkedIn</a>
+| <a href="https://github.com/JaromPD">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+B.S Software Engineering
+- 3.7 GPA
+
+## Skills
+
+__Programming Languages:__
+C++, C, Python, x86 & ARM Assembly Languages, SQL, Kotlin
+
+__Tools / Platforms:__
+Visual Studio and Visual Studio Code, Eclipse, Git, Github, Android Studio, MySQL
+
+__Databases:__
+SQL and Google Firebase
+
+__Embedded Systems:__
+Basic Hardware Describtion Language (System Verilog), Digital Circuit Design (Logisim Evolution)
+
+## Certificates
+
+### Programming Cerificate
+
+__Courses__: Programming with Functions, Programming with Classes, Programming with Data Structures, Applied Programming
+
+40,000+ lines of custom Python code in 80 projects.
+
+- Collaborated with a 5-person team on a Kotlin budgeting app utilizing Google Firebase.
+- Designed a “dino jump” game with 3,591 lines of Python code using Raylib with 4 other programmers
+
+### Software Design Cerificate
+
+__Courses__: Algorithms, Modularization, Encapsulation, Inheritance, Data Structures (in progress), Design Patterns (in progress)
+
+ Largest project contains ~1,500 lines of authored C++ code.
+
+- Developed visual representation skills including UML class diagrams, structure charts, data flow diagrams, and more.
+- Worked in teams to traverse codebases and refactored to align with best practices and design patterns such as the abstract factory.
+- Lead the creation of 20 programs with high levels of modularization, encapsulation and inheritance in a team setting.
+- Recreated C++ STL datastrcutures including Red-Black Tree, Hash, Linked List, Priority Queue and more.
+
+### Embedded Systems Cerificate
+
+__Courses__: Comp. Sys., C Language, Digital Sys., Comp. Arch., Microproc. Design (in progress)
+
+- Reverse engineered x86 assembly language programs to reproduce desired outcomes.
+- Enacted multiple buffer overflow attacks on a controlled x86 Linux system.
+- Refactored a C calendar program to achieve a 95% runtime speedup (2945.61ms to 130.93ms).
+- Designed a 4-bit microprocessor containing a custom instruction set, ALU, MUX, and more.
 
 
 ## Related Experience
 
-### Internships
+### Data Science Society
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2023 - July 2023`
+__Wilford Woodruff Papers__, Rexburg, ID
+- Crafted functions in a team to help clean 305,982 lines of journal data.
+- Taught regular expression patterns and simple pandas functions in the Python programming language to 2 new society members.
+- Developed a script to extract thousands of useful names, places, and abbreviations from raw text using Jupyter notebook and pandas.
+- Utilized a “bag of words” approach to content match thousands of journal entries to 41,995 verses of scripture.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`September 2022 - December 2022`
+__Predictive Camping Reservation Model__, Rexburg, ID
+- Managed a data frame consisting of 3,470 rows and 1,570 columns in pandas.
+- Studied real-world artificial intelligence and machine learning applications within Python.
+- Assisted in the construction of an AI-powered reservation model for a local business using TensorFlow with a 3-person data science team.
+- Created methods to exhibit hundreds of reservation predictions to business.
 
-### Data Science Lead
+## Volunteer and Work History
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`2023`
+__Computer Science and Engineering Volunteer Tutor | BYU - Idaho__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`January 2022 - April 2022`
+__Customer Service Representative | H&R Block__, Firestone, CO
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`December 2022 - April 2023`
+__Sandwich Maker | Jersey Mike's__, Firestone, CO
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+`March 2021 - June 2021`
+__Produce Clerk | Safeway__, Firestone, CO
 
 <!-- ### Footer
 
